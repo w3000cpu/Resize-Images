@@ -1,0 +1,12 @@
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\FileLogger\bin\Debug\FileLogger.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\FileLogger\bin\Debug\FileLogger.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Debug\FileLogger.csprojAssemblyReference.cache
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Debug\FileLogger.csproj.CopyComplete
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Debug\FileLogger.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Debug\FileLogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\bin\Debug\FileLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\bin\Debug\FileLogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Debug\FileLogger.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Debug\FileLogger.csproj.CopyComplete
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Debug\FileLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Debug\FileLogger.pdb

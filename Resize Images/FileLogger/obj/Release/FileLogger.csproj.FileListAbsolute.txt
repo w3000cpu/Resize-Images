@@ -1,0 +1,7 @@
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\bin\Release\FileLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\bin\Release\FileLogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\bin\Release\ILogger.dll
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Release\FileLogger.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Release\FileLogger.csproj.CopyComplete
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Release\FileLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\FileLogger\obj\Release\FileLogger.pdb

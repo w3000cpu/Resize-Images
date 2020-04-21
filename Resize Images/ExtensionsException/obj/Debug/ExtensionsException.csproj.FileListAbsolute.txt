@@ -1,0 +1,10 @@
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ExtensionsException\bin\Debug\ExtensionsException.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ExtensionsException\bin\Debug\ExtensionsException.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ExtensionsException\obj\Debug\ExtensionsException.csprojAssemblyReference.cache
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ExtensionsException\obj\Debug\ExtensionsException.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ExtensionsException\obj\Debug\ExtensionsException.pdb
+D:\OneDrive\Projects\C#\Resize Images\ExtensionsException\bin\Debug\ExtensionsException.dll
+D:\OneDrive\Projects\C#\Resize Images\ExtensionsException\bin\Debug\ExtensionsException.pdb
+D:\OneDrive\Projects\C#\Resize Images\ExtensionsException\obj\Debug\ExtensionsException.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\ExtensionsException\obj\Debug\ExtensionsException.dll
+D:\OneDrive\Projects\C#\Resize Images\ExtensionsException\obj\Debug\ExtensionsException.pdb

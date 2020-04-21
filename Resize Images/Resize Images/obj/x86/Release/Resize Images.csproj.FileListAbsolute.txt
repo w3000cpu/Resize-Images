@@ -1,0 +1,29 @@
+C:\Users\auu1075\Documents\Visual Studio 2010\Projects\Resize Images\Resize Images\bin\Release\Resize Images.exe
+C:\Users\auu1075\Documents\Visual Studio 2010\Projects\Resize Images\Resize Images\bin\Release\Resize Images.pdb
+C:\Users\auu1075\Documents\Visual Studio 2010\Projects\Resize Images\Resize Images\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+C:\Users\auu1075\Documents\Visual Studio 2010\Projects\Resize Images\Resize Images\obj\x86\Release\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\auu1075\Documents\Visual Studio 2010\Projects\Resize Images\Resize Images\obj\x86\Release\Resize Images.csproj.GenerateResource.Cache
+C:\Users\auu1075\Documents\Visual Studio 2010\Projects\Resize Images\Resize Images\obj\x86\Release\Resize Images.exe
+C:\Users\auu1075\Documents\Visual Studio 2010\Projects\Resize Images\Resize Images\obj\x86\Release\Resize Images.pdb
+C:\Users\auu1075\Documents\Visual Studio 2010\Projects\Resize Images\Resize Images\obj\x86\Release\Resize Images.csprojResolveAssemblyReference.cache
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\Resize Images.exe
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\Resize Images.pdb
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\Resize Images.exe
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\Resize Images.pdb
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\WindowsFormsApplication4.Properties.Resources.resources
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\Resize Images.csproj.GenerateResource.cache
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\Resize Images.exe
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\Resize Images.pdb
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\Resize Images.exe.config
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\Resize Images.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\ConsoleLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\EventLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\ExtensionsException.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\FileLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\FilesStatus.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\ILogger.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\ImageResizing.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\ImageResizingException.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\bin\Release\ImagesExtensions.dll
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\ResizeImagesApplication.Form1.resources
+D:\OneDrive\Projects\C#\Resize Images\Resize Images\obj\x86\Release\Resize Images.csproj.CopyComplete

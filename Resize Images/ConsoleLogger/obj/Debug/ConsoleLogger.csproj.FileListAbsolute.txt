@@ -1,0 +1,12 @@
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ConsoleLogger\bin\Debug\ConsoleLogger.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ConsoleLogger\bin\Debug\ConsoleLogger.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Debug\ConsoleLogger.csprojAssemblyReference.cache
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Debug\ConsoleLogger.csproj.CopyComplete
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Debug\ConsoleLogger.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Debug\ConsoleLogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\bin\Debug\ConsoleLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\bin\Debug\ConsoleLogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Debug\ConsoleLogger.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Debug\ConsoleLogger.csproj.CopyComplete
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Debug\ConsoleLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Debug\ConsoleLogger.pdb

@@ -1,0 +1,16 @@
+C:\Users\auu1075\OneDrive\Projects\C#\ImagesExtensions\ImagesExtensions\bin\Debug\ImagesExtensions.dll
+C:\Users\auu1075\OneDrive\Projects\C#\ImagesExtensions\ImagesExtensions\bin\Debug\ImagesExtensions.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\ImagesExtensions\ImagesExtensions\obj\Debug\ImagesExtensions.dll
+C:\Users\auu1075\OneDrive\Projects\C#\ImagesExtensions\ImagesExtensions\obj\Debug\ImagesExtensions.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImagesExtensions\bin\Debug\ImagesExtensions.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImagesExtensions\bin\Debug\ImagesExtensions.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImagesExtensions\obj\Debug\ImagesExtensions.csprojAssemblyReference.cache
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImagesExtensions\obj\Debug\ImagesExtensions.csproj.CopyComplete
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImagesExtensions\obj\Debug\ImagesExtensions.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImagesExtensions\obj\Debug\ImagesExtensions.pdb
+D:\OneDrive\Projects\C#\Resize Images\ImagesExtensions\bin\Debug\ImagesExtensions.dll
+D:\OneDrive\Projects\C#\Resize Images\ImagesExtensions\bin\Debug\ImagesExtensions.pdb
+D:\OneDrive\Projects\C#\Resize Images\ImagesExtensions\obj\Debug\ImagesExtensions.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\ImagesExtensions\obj\Debug\ImagesExtensions.csproj.CopyComplete
+D:\OneDrive\Projects\C#\Resize Images\ImagesExtensions\obj\Debug\ImagesExtensions.dll
+D:\OneDrive\Projects\C#\Resize Images\ImagesExtensions\obj\Debug\ImagesExtensions.pdb

@@ -1,0 +1,4 @@
+C:\Users\auu1075\OneDrive\Projects\C#\ImagesExtensions\ImagesExtensions\bin\Debug\ImagesExtensions.dll
+C:\Users\auu1075\OneDrive\Projects\C#\ImagesExtensions\ImagesExtensions\bin\Debug\ImagesExtensions.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\ImagesExtensions\ImagesExtensions\obj\Debug\ImagesExtensions.dll
+C:\Users\auu1075\OneDrive\Projects\C#\ImagesExtensions\ImagesExtensions\obj\Debug\ImagesExtensions.pdb

@@ -1,0 +1,4 @@
+D:\OneDrive\Projects\C#\Resize Images\FilesStatus\bin\Release\FilesStatus.dll
+D:\OneDrive\Projects\C#\Resize Images\FilesStatus\bin\Release\FilesStatus.pdb
+D:\OneDrive\Projects\C#\Resize Images\FilesStatus\obj\Release\FilesStatus.dll
+D:\OneDrive\Projects\C#\Resize Images\FilesStatus\obj\Release\FilesStatus.pdb

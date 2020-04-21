@@ -1,0 +1,5 @@
+D:\OneDrive\Projects\C#\Resize Images\ILogger\bin\Release\ILogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ILogger\bin\Release\ILogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\ILogger\obj\Release\ILogger.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\ILogger\obj\Release\ILogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ILogger\obj\Release\ILogger.pdb

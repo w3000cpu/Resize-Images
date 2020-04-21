@@ -1,0 +1,5 @@
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\bin\Release\ImageResizingException.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\bin\Release\ImageResizingException.pdb
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Release\ImageResizingException.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Release\ImageResizingException.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Release\ImageResizingException.pdb

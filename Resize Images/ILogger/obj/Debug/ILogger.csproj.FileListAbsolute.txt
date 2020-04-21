@@ -1,0 +1,10 @@
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ILogger\bin\Debug\ILogger.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ILogger\bin\Debug\ILogger.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ILogger\obj\Debug\ILogger.csprojAssemblyReference.cache
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ILogger\obj\Debug\ILogger.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ILogger\obj\Debug\ILogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\ILogger\bin\Debug\ILogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ILogger\bin\Debug\ILogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\ILogger\obj\Debug\ILogger.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\ILogger\obj\Debug\ILogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ILogger\obj\Debug\ILogger.pdb

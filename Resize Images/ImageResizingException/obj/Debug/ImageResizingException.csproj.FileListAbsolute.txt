@@ -1,0 +1,10 @@
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImageResizingException\bin\Debug\ImageResizingException.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImageResizingException\bin\Debug\ImageResizingException.pdb
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Debug\ImageResizingException.csprojAssemblyReference.cache
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Debug\ImageResizingException.dll
+C:\Users\auu1075\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Debug\ImageResizingException.pdb
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\bin\Debug\ImageResizingException.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\bin\Debug\ImageResizingException.pdb
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Debug\ImageResizingException.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Debug\ImageResizingException.pdb
+D:\OneDrive\Projects\C#\Resize Images\ImageResizingException\obj\Debug\ImageResizingException.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\OneDrive\Projects\C#\Resize Images\Extensions\bin\Release\Extensions.dll
+D:\OneDrive\Projects\C#\Resize Images\Extensions\bin\Release\Extensions.pdb
+D:\OneDrive\Projects\C#\Resize Images\Extensions\bin\Release\ExtensionsException.dll
+D:\OneDrive\Projects\C#\Resize Images\Extensions\obj\Release\Extensions.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\Extensions\obj\Release\Extensions.csproj.CopyComplete
+D:\OneDrive\Projects\C#\Resize Images\Extensions\obj\Release\Extensions.dll
+D:\OneDrive\Projects\C#\Resize Images\Extensions\obj\Release\Extensions.pdb

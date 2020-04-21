@@ -1,0 +1,7 @@
+D:\OneDrive\Projects\C#\Resize Images\EventLogger\bin\Release\EventLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\EventLogger\bin\Release\EventLogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\EventLogger\bin\Release\ILogger.dll
+D:\OneDrive\Projects\C#\Resize Images\EventLogger\obj\Release\EventLogger.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\EventLogger\obj\Release\EventLogger.csproj.CopyComplete
+D:\OneDrive\Projects\C#\Resize Images\EventLogger\obj\Release\EventLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\EventLogger\obj\Release\EventLogger.pdb

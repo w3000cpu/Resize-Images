@@ -1,0 +1,7 @@
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\bin\Release\ConsoleLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\bin\Release\ConsoleLogger.pdb
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\bin\Release\ILogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Release\ConsoleLogger.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Release\ConsoleLogger.csproj.CopyComplete
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Release\ConsoleLogger.dll
+D:\OneDrive\Projects\C#\Resize Images\ConsoleLogger\obj\Release\ConsoleLogger.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\bin\Release\ImageResizing.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\bin\Release\ImageResizing.pdb
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\bin\Release\Extensions.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\bin\Release\ExtensionsException.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\bin\Release\ImageResizingException.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\bin\Release\ImagesExtensions.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\obj\Release\ImageResizing.csprojAssemblyReference.cache
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\obj\Release\ImageResizing.csproj.CopyComplete
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\obj\Release\ImageResizing.dll
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\obj\Release\ImageResizing.pdb
+D:\OneDrive\Projects\C#\Resize Images\ImageResizing\bin\Release\ImagesExtensions.pdb
